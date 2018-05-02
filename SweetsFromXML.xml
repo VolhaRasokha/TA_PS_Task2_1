@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweets>
+   <candy id="0001">
+     <sweetsName>CandyFromXML1</sweetsName>
+     <sweetsWeight>100</sweetsWeight>
+     <sweetsCount>6</sweetsCount>
+	 <sweetsManufacturer>Krasnu pishevik</sweetsManufacturer>
+	 <sweetsCandyType>Chocolate Candy</sweetsCandyType>
+	 </candy>
+	 <candy id="0002">
+     <sweetsName>CandyFromXML2</sweetsName>
+     <sweetsWeight>100</sweetsWeight>
+     <sweetsCount>6</sweetsCount>
+	 <sweetsManufacturer>Krasnu pishevik</sweetsManufacturer>
+	 <sweetsCandyType>Chocolate Candy</sweetsCandyType>
+	 </candy>
+</sweets>

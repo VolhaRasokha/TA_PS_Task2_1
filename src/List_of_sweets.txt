@@ -1,0 +1,4 @@
+Fudgent(from file),100,5,Roshen,Chocolate Candy
+Sweet lollipop (from file),150,16,Kommunarka,Caramel
+Stolichnue Elite (from file),150,4,Kommunarka,Chocolate Candy
+South night (from file),100,2,Kommunarka,Chocolate Candy
